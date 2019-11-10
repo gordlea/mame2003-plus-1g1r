@@ -1,3 +1,2223 @@
-__**Recommended 1g1r-English set**__
+	__*Recommended 1g1r-English set**__
 
+5
+10 Yard Fight (Japan)
+1941 - Counter Attack (World)
+1942 (set 1)
+1943 - The Battle of Midway (US)
+1943 - The Battle of Midway Mark II (US)
+1943 Kai - Midway Kaisen
+1944: The Loop Master (USA 000620)
+1945k III
+19XX: The War Against Destiny (USA 951207)
+2 On 2 Open Ice Challenge (rev 1.21)
+2020 Super Baseball (set 1)
+3 Count Bout / Fire Suplex (NGM-043 ~ NGH-043)
+3-in-1 (SemiCom)
+4 Fun in 1
+4 Player Bowling Alley
+4-D Warriors
+64th. Street - A Detective Story (World)
+720 Degrees (rev 4)
+'88 Games
+'96 Flag Rally
+Ace
+Ace Attacker
+Ace Driver - Victory Lap (Rev. ADV2, World)
+Ace Driver (Rev. AD2, World)
+Acrobat Mission
+Acrobatic Dog-Fight
+Act-Fancer Cybernetick Hyper Weapon (World revision 2)
+Action Fighter
+Aero Fighters
+Aero Fighters 2 / Sonic Wings 2
+Aero Fighters 3 / Sonic Wings 3
+After Burner II
+Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku
+Air Attack (set 1)
+Air Buster
+Air Combat (US)
+Air Combat 22 (Rev. ACS1 Ver.B)
+Air Duel (Japan)
+Air Gallet
+Air Inferno (US)
+Air Rescue
+Airwolf
+Ajax
+Alex Kidd: The Lost Stars (set 1)
+Ali Baba and 40 Thieves
+Alien Arena
+Alien Arena (Stargate upgrade)
+Alien Storm
+Alien Syndrome (set 1)
+Alien vs. Predator (USA 940520)
+Aliens (World set 1)
+All American Football (rev E)
+Alley Master
+Alligator Hunt
+Alpha Fighter - Head On
+Alpha Mission II / ASO II - Last Guardian
+Alpine Racer (Rev. AR2 Ver.D)
+Alpine Ski (set 1)
+Altered Beast (Version 1)
+Amazing Maze
+Ambush
+American Horseshoes (US)
+American Speedway (set 1)
+AmeriDarts
+Amidar
+Andro Dunos
+Andromeda (Japan[Q])
+Angel Kids (Japan)
+Anteater
+APB - All Points Bulletin (rev 7)
+Appoooh
+Aqua Jack (World)
+Aqua Rush (AQ1-VER.A)
+Aquarium (Japan)
+Arabian
+Arabian Fight
+Arabian Magic (World)
+Arbalester
+Arch Rivals (rev 4.0)
+Argus
+Ark Area
+Arkanoid - Revenge of DOH (World)
+Arkanoid (World)
+Arkanoid Returns (Japan)
+Arlington Horse Racing (v1.21-D)
+Arm Wrestling
+Armed Formation
+Armed Police Batrider (Japan, version B)
+Armor Attack
+Armored Car (set 1)
+Armored Warriors (Euro 941011)
+Art of Fighting / Ryuuko no Ken
+Art of Fighting 2 / Ryuuko no Ken 2
+Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden
+Ashita no Joe (Japan)
+Ashura Blaster (US)
+ASO - Armored Scrum Object
+Assault
+Asterix (World ver. EAD)
+Asteroids (rev 2)
+Asteroids Deluxe (rev 2)
+Astra SuperStars
+Astro Blaster (version 3)
+Astro Fighter (set 1)
+Astro Invader
+Asuka and Asuka (Japan)
+Asura Blade - Sword of Dynasty
+Asura Buster - Eternal Warriors
+Atari Baseball (set 1)
+Atari Football (revision 2)
+Atari Soccer
+Athena
+Atomic Point
+Atomic Robo-kid
+Aurail (set 1)
+Avalanche
+Avengers (US set 1)
+Avengers In Galactic Storm (US/Europe 1.0)
+Avenging Spirit
+Aztarac
+Azurian Attack
+B.C. Story (set 1)
+B.Rap Boys (World)
+Back Street Soccer
+Backfire!
+Bad Dudes vs. Dragonninja (US)
+Bad Lands
+Bagman
+Baku Baku Animal
+Bakuretsu Breaker
+Bakutotsu Kijuutei
+Bal Cube
+Balloon Bomber
+Balloon Brothers
+Baluba-louk no Densetsu
+Bang Bang Ball (v1.05)
+Bang Bang Busters
+Bang Bead
+Bank Panic
+Baraduke (set 1)
+Barricade
+Barrier
+Baryon - Future Assault
+Baseball Stars 2
+Baseball Stars Professional
+Baseball The Season II
+Basketball
+Batman
+Batman Forever
+Batsugun
+Battlantis
+Battle Arena Toshinden 2 (USA 951124)
+Battle Bakraid (Japan) (Wed Apr 7 1999)
+Battle Chopper
+Battle Circuit (Euro 970319)
+Battle Cross
+Battle Cruiser M-12
+Battle Flip Shot
+Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996)
+Battle K-Road
+Battle Lane! Vol. 5 (set 1)
+Battle of Atlantis (set 1)
+Battle Shark (US)
+Battle Toads
+Battle Zone (set 1)
+Battlecry
+Bay Route (set 1)
+Beam Invader
+Beastorizer
+Beezer (set 1)
+Bells and Whistles (Version L)
+Ben Bero Beh (Japan)
+Beraboh Man (Japan version C)
+Bermuda Triangle (US older version)
+Berzerk (set 1)
+Best Bout Boxing
+Big Event Golf
+Big Karnak
+Big Run (11th Rallye version)
+Big Striker
+Bigfoot Bonkers
+Bio Attack
+Biomechanical Toy (unprotected)
+Bionic Commando (US set 1)
+Bio-ship Paladin
+Birdie King
+Birdie King 2
+Birdie King 3
+Birdie Try (Japan)
+Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)
+Black Heart
+Black Hole
+Black Panther
+Black Tiger
+Black Widow
+Blade Master (World)
+Blades of Steel (version T)
+Blast Off (Japan)
+Blasted
+Blaster
+Blasteroids (rev 4)
+Blasto
+Blaze On (Japan)
+Blazer (Japan)
+Blazing Star
+Blazing Tornado
+Block Block (World 911106 Joystick)
+Block Carnival - Thunder and Lightning 2
+Block Hole
+Block Out (set 1)
+Blockade
+Blocken (Japan)
+Blomby Car
+Blood Bros.
+Blood Storm (v2.22)
+Blood Warrior
+Bloody Wolf (US)
+Bloxeed
+Blue Hawk
+Blue Print (Midway)
+Blue Shark
+Blue's Journey / Raguy
+Body Slam
+Bogey Manor
+Bomb Bee
+Bomb Jack (set 1)
+Bomb Jack Twin
+Bomber Man World (World)
+Bonanza Bros
+Bonk's Adventure
+Bonze Adventure (World)
+Boogie Wings (Euro v1.5)
+Boomer Rang'r - Genesis
+Boot Hill
+Borench
+Bosconian (new version)
+Botanic
+Bottom of the Ninth (version T)
+Boulder Dash - Boulder Dash Part 2 (World)
+Bowl-O-Rama
+Boxing Bugs
+Boxy Boy (US)
+Bradley Trainer
+Brain
+Brave Blade (JAPAN)
+Break Thru (US)
+Breakers
+Brick Zone (v5.0)
+Brute Force
+Bubble Bobble
+Bubble Bobble (US with mode select)
+Bubble Bobble 2 (World)
+Bubble Memories - The Story Of Bubble Bobble 3 (World)
+Bubbles
+Buck Rogers - Planet of Zoom
+Bucky O'Hare (US version UA)
+Buggy Challenge
+Bull Fighter
+Bullfight
+Burger Time (Data East set 1)
+Burglar X
+Burnin' Rubber
+Burning Fight (set 1)
+Burning Force (Japan)
+Burning Rival (Japan)
+Buster Bros. (US)
+Butasan (Japan)
+B-Wings (Japan)
+Cabal (World, Joystick version)
+Cabaret
+Cachat (Japan)
+Cadash (World)
+Cadillacs and Dinosaurs (World 930201)
+Caliber 50
+Calipso
+Cameltry (US)
+Cannon Ball (Crazy Climber hardware)
+Canyon Bomber
+Capcom Baseball (Japan)
+Capcom Bowling (set 1)
+Capcom Sports Club (Euro 970722)
+Captain America and The Avengers (US Rev 1.9)
+Captain Commando (World 911014)
+Captain Silver (Japan)
+Captain Tomaday
+Car Jamboree
+Car Polo
+Carnival (upright)
+Carrier Air Wing (World 901012)
+Cassette: Astro Fantasia
+Cassette: Boulder Dash
+Cassette: Burger Time
+Cassette: Burnin' Rubber (set 1)
+Cassette: Disco No.1
+Cassette: Explorer
+Cassette: Fighting Ice Hockey
+Cassette: Flying Ball[Q]
+Cassette: Graplop (aka Cluster Buster) (set 1)
+Cassette: Highway Chase[Q]
+Cassette: Lock'n'Chase
+Cassette: Mission-X
+Cassette: Night Star (set 1)
+Cassette: Peter Pepper's Ice Cream Factory (set 1)
+Cassette: Pro Bowling
+Cassette: Pro Golf
+Cassette: Pro Soccer
+Cassette: Pro Tennis
+Cassette: Rootin' Tootin' (aka La.Pa.Pa)
+Cassette: Scrum Try (set 1)
+Cassette: Super Astro Fighter
+Cassette: Terranean
+Cassette: Tornado
+Cassette: Treasure Island (set 1)
+Cassette: Zeroize[Q]
+Catapult
+Cavelon
+Caveman Ninja (World revision 3)
+Centipede (revision 3)
+Cerberus
+Chack'n Pop
+Chain Reaction (World, Version 2.2)
+Challenger
+Chameleon
+Champion Baseball
+Champion Baseball II
+Champion Boxing
+Champion Pro Wrestling
+Champion Wrestler (World)
+Championship Sprint (rev 3)
+Change Air Blade (Japan)
+Changes
+Charlie Ninja
+Chase H.Q. (World)
+Check Man
+Checkmate
+Cheeky Mouse
+Cheese Chase
+Chelnov - Atomic Runner (World)
+Chequered Flag
+Chicken Shift
+China Gate (US)
+China Town (Japan)
+Chinese Hero
+Choky! Choky!
+Choplifter
+Chopper I (US set 1)
+Chuka Taisen (World)
+Circus
+Circus Charlie
+Cisco Heat
+City Bomber (World)
+City Connection (set 1)
+Clash-Road
+Clutch Hitter
+Cobra-Command (World revision 5)
+Colony 7 (set 1)
+Columns (US)
+Columns 97
+Columns II - The Voyage Through Time (Japan)
+Congo Bongo (Rev C, 2 board stack)
+Continental Circus (World)
+Contra (US)
+Cookie & Bibi
+Cookie and Bibi 2
+Cool Pool
+Cop 01 (set 1)
+Cops'n Robbers
+Cosmic Alien
+Cosmic Avenger
+Cosmic Chasm (set 1)
+Cosmic Cop (World)
+Cosmic Guerilla
+Cosmo Gang the Puzzle (US)
+Cosmo Gang the Video (US)
+Cosmos
+Cotton (Japan)
+Cotton 2
+Cotton Boomerang
+Counter Run
+Crackdown
+Crash
+Crater Raider
+Crazy Balloon (set 1)
+Crazy Climber (US)
+Crazy Climber 2 (Japan)
+Crazy Kong (set 1)
+Crazy Rally
+Crime City (World)
+Crime Fighters (World 2 Players)
+Cross Pang
+Cross Shooter (not encrypted)
+Crossed Swords
+Crowns Golf (set 1)
+Crude Buster (World FX version)
+Cruis'n USA (rev L4.1)
+Cruis'n World (rev L2.3)
+Crush Roller (Kural Samno)
+Crystal Castles (joystick version)
+Cuby Bop (Location Test)
+Cue Brick (World version D)
+Curve Ball
+Cute Fighter
+Cutie Q
+Cybattler
+Cyber Commando (Rev. CY1, Japan)
+Cyber Cycles (Rev. CB2 Ver.C)
+Cyber Sled
+Cyberball (rev 4)
+Cyberball 2072 (2 player, rev 4)
+Cyberbots: Fullmetal Madness (USA 950424)
+Cyber-Lip
+Cycle Shooting
+Cyvern (Japan)
+Daioh
+Daisu-Kiss (ver JAA)
+Daitoride
+DakkoChan Jansoh
+Danchi de Hanafuda
+Dancing Eyes (DC1-VER.A)
+Dangar - Ufo Robo (12-1-1986)
+Danger Zone
+Dangerous Dungeons
+Dangerous Seed (Japan)
+Dangun Feveron (Japan)
+Danny Sullivan's Indy Heat
+Daraku Tenshi - The Fallen Angels
+Darius (World)
+Darius Gaiden - Silver Hawk (World)
+Darius II (Japan)
+Dark Edge
+Dark Planet
+Dark Tower
+Dark Warrior
+Darkstalkers: The Night Warriors (USA 940818)
+Darwin 4078 (Japan)
+Datsun 280 Zzzap
+Dazzler
+D-Con
+DD Crew
+D-Day
+Dead Angle
+Dead Connection (World)
+Dead Eye
+Dead Or Alive ++ (JAPAN)
+Decathlete
+Deer Hunting USA V4.3
+Defend the Terra Attack on the Red UFO
+Defender (Red label)
+Deluxe 5 (ver. 0107, 07-01-2000)
+Demolition Derby
+Demon
+Demoneye-X
+Demon's World - Horror Story
+Denjin Makai
+Depthcharge
+Derby Quiz My Dream Horse (MDH1-VER.A)
+Deroon DeroDero
+Desert Assault (US)
+Desert War - Wangan Sensou
+Destroyer
+Devastators (ver. Z)
+Devil Fish
+Devil World
+Devil Zone
+Dharma Doujou
+Diamond Run
+Die Hard Arcade (US)
+Diet Go Go (USA v1.1)
+Dig Dug (rev 2)
+Dig Dug II (New Ver.)
+Digger
+Dimahoo (USA 000121)
+Dingo
+Dino Rex (World)
+Dirt Fox (Japan)
+Disco No.1
+Discs of Tron (Upright)
+Diver Boy
+DJ Boy
+Do! Run Run (set 1)
+Dock Man
+Dodgem
+DoDonPachi (International)
+DoDonPachi Dai-Ou-Jou
+Dog Fight (Thunderbolt)
+Dog Patch
+Dogyuun
+Dokaben (Japan)
+Doki Doki Penguin Land
+Domino Man
+Dominos
+Dommy
+Don Doko Don (World)
+Donkey Kong (US set 1)
+Donkey Kong 3 (US)
+Donkey Kong Junior (US)
+DonPachi (US)
+Dorachan
+Dorodon (set 1)
+Dottori Kun (new version)
+Double Axle (US)
+Double Dragon (Neo-Geo)
+Double Dragon (US)
+Double Dragon 3 - The Rosetta Stone (US)
+Double Dragon II - The Revenge (World)
+Double Dribble
+Double Wings
+DownTown
+Dr. Micro
+Dr. Toppel's Adventure (World)
+Drag Race
+Dragon Ball Z V.R.V.S.
+Dragon Blaze
+Dragon Breed
+Dragon Buster
+Dragon Gun (US)
+Dragon Master
+Dragon Punch (Japan)
+Dragon Saber
+Dragon Spirit (new version)
+Dragon Unit - Castle of Dragon
+Dragon World (World, V040O)
+Dragonball Z
+Dragonball Z 2 Super Battle
+Dragon's Lair
+Dragoon Might (ver JAA)
+Drakton
+Dream Shopper
+Dream Soccer '94
+Dream World
+Dribbling
+Drift Out (Japan)
+Drift Out '94 - The Hard Order (Japan)
+Driver's Edge
+Driving Force (Pac-Man conversion)
+Dungeon Magic (World)
+Dungeons and Dragons: Shadow over Mystara (USA 960619)
+Dungeons and Dragons: Tower of Doom (USA 940125)
+Dunk Mania (DM1-VER.C)
+Dunk Shot
+Dyger (Korea set 1)
+Dyna Gears
+Dynablaster (World)
+Dynamic Country Club
+Dynamic Ski
+Dynamite Duke
+Dynamite League (Japan)
+Dynasty Wars (World)
+Dyno Bop
+E.D.F.  - Earth Defense Force
+Eagle Shot Golf
+Eco Fighters (World 931203)
+Eggor
+Ehrgeiz (EG3-VER.A)
+Eight Ball Action (DK conversion)
+Eight Forces
+Eight Man
+Ejihon Tantei Jimusyo
+Elevator Action
+Elevator Action 2 (US)
+Eliminator (2 Players, set 1)
+Embargo
+Emeraldia (Japan Version B)
+Empire City - 1931 (bootleg[Q])
+Enduro Racer
+Enforce (Japan)
+Enigma 2
+Equites
+Escape from the Planet of the Robot Monsters (set 1)
+Escape Kids (Asia 4 Players)
+ESP Ra.De. (International Ver 1998 4-22)
+EspGaluda
+Espial (US[Q])
+E-Swat - Cyber Police
+Evil Stone
+Excite League
+Exciting Soccer
+Exed Exes
+Exerion
+Express Raider (US)
+Extermination (US)
+Exterminator
+Extra Bases
+Extra Inning
+Extreme Downhill (v1.5)
+Exvania (Japan)
+Exzisus (Japan)
+Eyes (Digitrex Techstar)
+F-1 Dream
+F1 Exhaust Note
+F-1 Grand Prix
+F-1 Grand Prix Part II
+F-1 Grand Prix Star II
+F1 Super Battle
+F1 Super Lap
+Face Off (Japan)
+Fancy World - Earth of Crisis
+Fantasy (US)
+Fantasy Land
+Fantasy Zone (Japan New Ver.)
+Fantasy Zone 2
+Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den
+Fast Lane
+Fatal Fury - King of Fighters / Garou Densetsu - Shukumei no Tatakai
+Fatal Fury 2 / Garou Densetsu 2 - Arata-naru Tatakai
+Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai
+Fatal Fury Special / Garou Densetsu Special (set 1)
+Field Combat
+Field Day
+Fight Fever (set 1)
+Fighter and Attacker (US)
+Fighters History (World ver 43-07)
+Fighter's Impact Ace (JAPAN)
+Fighting Dragon Legend Elan Doree
+Fighting Golf (World[Q])
+Fighting Hawk (World)
+Fighting Layer (FTL1-VER.A)
+Fighting Roller
+Fighting Soccer
+Final Blow (World)
+Final Fight (World)
+Final Fight Revenge
+Final Lap (Rev E)
+Final Lap 2
+Final Lap 3 (World)
+Final Star Force (US)
+Finalizer - Super Transformation
+Find Love
+Finest Hour (Japan)
+Fire Barrel (Japan)
+Fire Battle
+Fire One
+Fire Shark
+Fire Trap (US)
+Fire Truck
+Fit of Fighting
+FixEight
+Flash Point
+Flashgal
+Flicky (128k Ver.)
+Flower
+Flyball
+Fly-Boy
+Flying Shark (World)
+Food Fight (rev 3)
+Football Champ (World)
+Football Frenzy
+Forgotten Worlds (US)
+Formation Z
+Forty-Love
+Four Trax
+Free Kick
+Freeze
+Frenzy
+Frisky Tom (set 1)
+Frogger
+Frogs
+Front Line
+Funky Bee
+Funky Fish
+Funky Head Boxers
+Funky Jet
+Funny Mouse
+Future Spy
+Gaia - The Last Choice of Earth
+Gaia Crusaders
+Gaiapolis (Japan ver JAF)
+Gain Ground
+Galactic Warriors
+Galaga (Namco rev. B)
+Galaga '88 (set 1)
+Galaxian (Namco set 1)
+Galaxy Fight - Universal Warriors
+Galaxy Gunners
+Galaxy Wars (Universal set 1)
+Galivan - Cosmo Police (12-16-1985)
+Gallop Racer (JAPAN Ver 9.01.12)
+Gallop Racer 2 (USA)
+Galmedes (Japan)
+Gals Panic DX (Asia)
+Ganbare Ginkun
+Gang Busters
+Gang Wars (US)
+Gaplus (rev. D)
+Gardia
+Garou - Mark of the Wolves (set 1)
+Garyo Retsuden (Japan)
+Gate of Doom (US revision 4)
+Gauntlet (2 Players, rev 6)
+Gauntlet II (2 Players, rev 2)
+G-Darius (JAPAN)
+Gee Bee
+Gekirindan (Japan)
+Gemini Wing
+Genix Family
+Genpei ToumaDen
+Ghost Pilots
+Ghostlop (Prototype)
+Ghostmuncher Galaxian (bootleg)
+Ghosts'n Goblins (World[Q] set 1)
+Ghouls'n Ghosts (World)
+Ghox
+GI Joe (World)
+Giga Wing (USA 990222)
+Gigandes
+Gigas (bootleg)
+Gigas Mark II (bootleg)
+Gimme A Break
+Ginga NinkyouDen
+Gladiator (US)
+Gladiator 1984
+Global Champion (US)
+Go Go Mr. Yamaguchi - Yuke Yuke Yamaguchi-kun
+Go Go! Mile Smile
+Goal! Goal! Goal!
+Goalie Ghost
+Godzilla
+Goindol (World)
+Gokujyou Parodius (ver JAD)
+Gold Bug
+Gold Medalist
+Golden Axe - The Duel
+Golden Axe - The Revenge of Death Adder (US)
+Golden Axe (Version 1)
+Golden Tee 2K (v1.00)
+Golden Tee 3D Golf (v1.93N)
+Golden Tee '97 (v1.30)
+Golden Tee '98 (v1.10)
+Golden Tee '99 (v1.00)
+Golden Tee Classic (v1.00)
+Golden Tee Golf (Joystick, v3.1)
+Golden Tee Golf II (Joystick, V1.0)
+Golfing Greats
+Golgo 13 (GLG1-VER.A)
+Gondomania (US)
+Gorf
+Got-cha
+Gradius III (Japan)
+Grand Champion
+Grand Cross
+Grand Prix Star
+Grand Striker
+Grand Striker 2 (Japan)
+Gratia - Second Earth (92047-01 version)
+Gravitar (version 3)
+Great 1000 Miles Rally
+Great Sluggers '94
+Great Swordsman
+Green Beret
+Green Beret (Irem)
+Grid Seeker - Project Stormhammer (World)
+Gridiron Fight
+Gridlee
+Grobda (New Ver.)
+Ground Effects - Super Ground Effects (Japan)
+Growl (World)
+Guardian
+Guardian Force
+Guardians - Denjin Makai II
+Guardians of the Hood
+Guerrilla War (US)
+Guided Missile
+Gulf Storm
+Gulf War II
+Gun and Frontier (World)
+Gun Fight
+Gun Master
+Gun.Smoke (World)
+Gunbarich
+Gunbird (World)
+Gunbird 2
+Gundhara
+Gunforce - Battle Fire Engulfed Terror Island (World)
+Gunforce 2 (US)
+Gunlock (World)
+GunNail
+Gururin
+Guts'n (Japan)
+Guwange (Japan)
+Guzzler
+Gyakuten!! Puzzle Bancho (Japan)
+Gypsy Juggler
+Gyrodine
+Gyruss (Konami)
+Hacha Mecha Fighter
+Hachoo!
+HAL21
+Halley's Comet (US)
+Hammerin' Harry (World)
+Hanagumi Taisen Columns - Sakura Wars
+Hanakanzashi (Japan)
+Hang-On
+Hang-On Jr.
+Hard Drivin' (cockpit, rev 7)
+Hard Dunk (World)
+Hard Hat
+Hard Head
+Hard Head 2 (v2.0)
+Hard Yardage (v1.20)
+Hasamu (Japan)
+Hat Trick
+Hat Trick Hero '95 (US)
+Hatch Catch
+Hatris (Japan)
+Haunted Castle (version M)
+Head On (2 players)
+Head On 2
+Head Panic (ver. 0117, 17-01-2000)
+Heart Attack
+Heated Barrel (World)
+Heavy Barrel (US)
+Heavy Metal
+Heavy Smash (Europe version -2)
+Heavyweight Champ
+Hebereke no Popoon (Japan)
+Heiankyo Alien
+HeliFire (revision B)
+Hellfire
+Hero
+Hexion (Japan)
+Hidden Catch
+High Impact Football (rev LA3 12-27-90)
+High Voltage
+High Way Race
+Hippodrome (US)
+Hit the Ice (US)
+Hoccer (set 1)
+Hole Land
+Holosseum
+Hook (World)
+Hoops '96 (Europe/Asia 2.0)
+Hopper Robo
+Hopping Mappy
+Horizon
+Hot Chase
+Hot Rod (turbo 3 player)
+Hot Shocker
+Hot Shots Tennis (V1.1)
+Hot Smash
+Hotdog Storm
+Hunchback
+Hunchback Olympic
+Hustle
+Hydra
+Hyper Crash (version D)
+Hyper Duel (World)
+Hyper Pacman
+Hyper Sports
+Hyper Street Fighter II: The Anniversary Edition (Asia 040202)
+I, Robot
+Iga Ninjyutsuden (Japan)
+IGMO
+Ikari III - The Rescue (US, Rotary Joystick)
+Ikari Warriors (US)
+Ikki (Japan)
+I'm Sorry (US)
+Image Fight (Japan)
+Imago
+In The Hunt (World)
+Indiana Jones and the Temple of Doom (set 1)
+Indoor Soccer
+Inferno (S2650)
+Inferno (Williams)
+Insector X (World)
+Intrepid (set 1)
+Invader's Revenge
+Invinco
+Invinco - Deep Scan
+Invinco - Head On 2
+IPM Invader
+IQ-Block
+Iron Horse
+Ironman Stewart's Super Off-Road
+Ironman Stewart's Super Off-Road Track Pack
+J. J. Squawkers
+Jack Rabbit (set 1)
+Jack the Giantkiller (set 1)
+Jackal (World)
+Jackie Chan - Kung Fu Master
+Jail Break
+Jitsuryoku!! Pro Yakyuu (Japan)
+J-League Soccer V-Shoot
+Joe and Mac Returns (World, Version 1.1)
+John Elway's Team Quarterback
+Joryuu Syougi Kyoushitsu (Japan)
+Joshi Volleyball
+Journey
+Joust (White-Green label)
+Joust 2 - Survival of the Fittest (set 1)
+Jr. Pac-Man
+Jump Bug
+Jump Coaster
+Jump Kids
+Jump Shot
+Jumping Cross
+Jumping Jack
+Jungle Hunt (US)
+Jungler
+Juno First
+Jurassic Park
+Kageki (US)
+Kaitei Takara Sagashi
+Kamikaze Cabbie
+Kangaroo
+Kaos
+Karaoke Quiz Intro Don Don!
+Karate Blazers (World[Q])
+Karate Champ (US)
+Karian Cross (Rev. 1.0)
+Karnov (US)
+Karnov's Revenge / Fighter's History Dynamite
+Ken-Go
+Ketsui Kizuna Jigoku Tachi
+Kick (upright)
+Kick and Run
+Kick Goal
+Kick Off (Japan)
+Kick Rider
+Kick Start Wheelie King
+Kicker
+Kid Niki - Radical Ninja (US)
+Kid no Hore Hore Daisakusen
+KiKi KaiKai
+Killer Comet
+King and Balloon (US)
+King of the Monsters (set 1)
+King of the Monsters 2 - The Next Thing
+Kingdom Grandprix (World)
+Kitten Kaboodle
+Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle
+Klax (set 1)
+Knights of the Round (World 911127)
+Knights of Valour - Sangoku Senki (ver. 117)
+Knuckle Bash
+Knuckle Bash 2
+Knuckle Heads (World)
+Knuckle Joe (set 1)
+KO Punch
+Kodure Ookami (Japan)
+Kokontouzai Eto Monogatari (Japan)
+Konami GT
+Konami's Open Golf Championship (ver EAD)
+Koutetsu Yousai Strahl (Japan set 1)
+Kozmik Kroozr
+Kram (set 1)
+Krazy Bowl
+Krull
+Kung-Fu Master
+Kung-Fu Taikun
+Kuri Kinton (World)
+Kyros
+Kyukyoku Sentai Dadandarn (Japan ver JAA)
+Kyukyoku Tiger 2 (Japan)
+Kyuukai Douchuuki (Japan new version)
+Lady Bug
+Lady Frog
+Laguna Racer
+Land Breaker
+Land Maker (Japan)
+Land Sea Air Squad - Riku Kai Kuu Saizensen
+Laser Ghost
+Lasso
+Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 1)
+Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi, The
+Last Duel (US set 1)
+Last Fortress - Toride
+Last Hope
+Last Mission (US revision 6)
+Last Resort
+Last Striker - Kyuukyoku no Striker
+Lazer Command
+League Bowling
+Led Storm Rally 2011 (World)
+Legend
+Legend of Hero Tonma
+Legend of Makai (World)
+Legend of Success Joe / Ashitano Joe Densetsu
+Legendary Wings (US set 1)
+Legion (ver 2.03)
+Legionnaire (World)
+Leprechaun
+Lethal Crash Race (set 1)
+Lethal Enforcers (ver UAE)
+Lethal Thunder (World)
+Levers
+Libble Rabble
+Liberation
+Liberator (set 1)
+Lifeforce (US)
+Lightning Fighters (US)
+Line of Fire
+Liquid Kids (World)
+Little Casino
+Little Casino 2
+Lizard Wizard
+Locked 'n Loaded (US)
+Lock'n'Chase
+Loco-Motion
+Lode Runner - The Dig Fight (ver. B) (Japan)
+Lode Runner (set 1)
+Lode Runner II - The Bungeling Strikes Back
+Lode Runner III - The Golden Labyrinth
+Lode Runner IV - Teikoku Karano Dasshutsu
+Logger
+Logic Pro (Japan)
+Logic Pro 2 (Japan)
+Looping (set 1)
+Lost Tomb (easy)
+Lot Lot
+Lotto Fun
+Lucky and Wild
+Lunar Lander (rev 2)
+Lunar Rescue
+Lupin III
+M.A.C.H. 3
+M.I.A. - Missing in Action (version T)
+M-4
+M79 Ambush
+Mach Breakers (Japan)
+Macho Mouse
+Macross Plus
+Mad Alien
+Mad Crasher
+Mad Gear (US)
+Mad Motor
+Mad Planets
+Mad Shark
+Mag Max
+Magic Bubble
+Magic Sword - Heroic Fantasy (World 900725)
+Magical Cat Adventure
+Magical Crystals (World)
+Magical Date (JAPAN) set 1
+Magical Drop II
+Magical Drop III
+Magical Spot
+Magical Spot II
+Magician Lord (set 1)
+Mahou Daisakusen (Japan)
+Main Event (1984)
+Major Havoc (rev 3)
+Major League
+Major Title (Japan)
+Major Title 2 (World)
+Malzak
+Mania Challenge (set 1)
+Maniac Square (unprotected)
+Many Block
+Mappy (US)
+Marble Madness (set 1)
+Marchen Maze (Japan)
+Marine Boy
+Marine Date
+Mariner
+Mario Bros. (US)
+Markham
+Mars
+Mars Matrix: Hyper Solid Shooting (USA 000412)
+Martial Champion (Europe ver EAA)
+Maru-Chan de Goo!
+Marvel Land (US)
+Marvel Super Heroes (USA 951024)
+Marvel Super Heroes Vs. Street Fighter (USA 970827)
+Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)
+Marvin's Maze
+Masked Riders Club Battle Race
+Master of Weapon (World)
+Mat Mania
+Match It II
+Mausuke no Ojama the World
+Max RPM
+Mayday (set 1)
+Mayhem 2002
+Maze of Flott (Japan)
+Mazer Blazer
+Mazinger Z
+Meadows Lanes
+Mega Blast (World)
+Mega Man - The Power Battle (CPS1 Asia 951006)
+Mega Man 2: The Power Fighters (USA 960708)
+Mega Twins (World 900619)
+Mega Zone
+Megadon
+MegaTack
+Meikyu Jima (Japan)
+Meosis Magic (Japan)
+Mercs (World 900302)
+Mermaid
+Meta Fox
+Metal Black (World)
+Metal Clash (Japan)
+Metal Hawk (Japan)
+Metal Slug - Super Vehicle-001
+Metal Slug 2 - Super Vehicle-001-II
+Metal Slug 3
+Metal Slug 4
+Metal Slug 5
+Metal Slug X - Super Vehicle-001
+Metal Soldier Isaac II
+Metamoqester
+Metamorphic Force (US ver UAA)
+Metro-Cross (set 1)
+Michael Jackson's Moonwalker (Set 1)
+Midnight Resistance (World)
+Mighty Guy
+Mighty Monkey
+Mighty Warriors
+Mighty! Pang (Japan 001011)
+Mikie
+Mille Miglia 2 - Great 1000 Miles Rally
+Millipede
+Minefield
+Minesweeper
+Mini Golf (set 1)
+Minivader
+Minky Monkey
+Mirai Ninja (Japan)
+Missile Command (set 1)
+Mission 660 (US)
+Mister Viking
+Mobile Suit Gundam
+Mobile Suit Gundam EX Revue
+Mobile Suit Gundam Final Shooting (Japan)
+Moero Pro Yakyuu Homerun
+Moguchan
+Mogura Desse
+Mole Attack
+Momoko 120%
+Money Money
+Money Puzzle Exchanger / Money Idol Exchanger
+Monkey Mole Panic (USA)
+Monster Bash
+Monster Slider (Japan)
+Monte Carlo
+Moon Alien Part 2
+Moon Cresta (Nichibutsu)
+Moon Patrol
+Moon Quasar
+Moon Shuttle (US[Q])
+Moonwar
+More More +
+Mortal Kombat (rev 5.0 T-Unit 03-19-93)
+Mortal Kombat 3 (rev 2.1)
+Mortal Kombat II (rev L3.1)
+Mosaic
+Moto Frenzy
+Motos
+Mouja (Japan)
+Mouse Shooter GoGo
+Mouse Trap (version 5)
+Mouser
+Mr Driller (DRI1-VER.A)
+Mr Driller 2
+Mr. Do!
+Mr. Do's Castle (set 1)
+Mr. Do's Wild Ride
+Mr. Goemon (Japan)
+Mr. Jong (Japan)
+Mr. Kougar
+Mr. TNT
+Ms. Pac-Man
+Mug Smashers
+Multi Champ (World, ver. 2.5)
+Multi Champ Deluxe (ver. 0106, 06-01-2000)
+Munch Mobile (US)
+Musashi Ganryuuki
+Mustache Boy
+Mutant Fighter (World Rev 4, EM-5)
+Mutant Night
+Mutation Nation
+MVP
+MX5000
+My Hero (US)
+Mysterious Stones - Dr. John's Adventure
+Mystic Marathon
+Mystic Riders (World)
+Mystic Warriors (US ver UAA)
+NAM-1975
+Namco Classics Collection Vol.1
+Namco Classics Collection Vol.2
+Naname de Magic! (Japan)
+Narc (rev 7.00)
+Nastar Warrior (US)
+NATO Defense
+Naughty Boy
+Naughty Mouse (set 1)
+Navarone
+NBA Hangtime (rev L1.1 04-16-96)
+NBA Jam (rev 3.01 04-07-93)
+NBA Jam Extreme
+Nebulas Ray (World)
+Neck-n-Neck (v1.2)
+Nemesis
+Nemo (World 901130)
+Neo Bomberman
+Neo Drift Out - New Technology
+Neo Mr. Do!
+Neo Turf Masters / Big Tournament Golf
+Neo-Geo Cup '98 - The Road to the Victory
+Net Wars
+New Rally X
+New Sinbad 7
+New York New York
+News
+Nibbler (set 1)
+Night Driver
+Night Slashers (Korea Rev 1.3)
+Night Stocker
+Night Striker (US)
+Night Warriors: Darkstalkers' Revenge (USA 950406)
+Nightmare in the Dark
+Ninja Baseball Batman (US)
+Ninja Clowns (08-27-91)
+Ninja Combat
+Ninja Commando
+Ninja Emaki (US)
+Ninja Gaiden (US)
+Ninja Master's - Haoh-ninpo-cho
+Ninja Spirit
+Ninja-Kid II (set 1)
+Ninjakun Majou no Bouken
+Nitro Ball (US)
+No Man's Land
+Noboranka (Japan)
+Nostradamus
+Nova 2001 (US)
+Numan Athletics (World)
+Nunchackun
+Off Road Challenge
+Off the Wall (2-3-player upright)
+Off the Wall (Sente)
+Oh My God! (Japan)
+Oishii Puzzle Ha Irimasenka
+Oli-Boo-Chu
+Omega Fighter
+Omega Race
+Onna Sansirou - Typhoon Gal (set 1)
+Opa Opa
+Orbit
+Orbitron
+Ordyne (Japan)
+Oriental Legend - Xi Yo Gi Shi Re Zuang (ver. 126)
+Oriental Legend Special - Xi You Shi E Zhuan Super (ver. 101, Korean Board)
+Osman (World)
+Out Run (set 1)
+Out Zone (set 1)
+Outfoxies
+Outrunners (US)
+Over Drive
+Over Top
+Ozma Wars (set 1)
+Ozon I
+P.O.W. - Prisoners of War (US)
+P-47 - The Phantom Fighter (World)
+P-47 Aces
+Pac & Pal
+Paca Paca Passion (PPP1-VERA)
+Pac-Land (set 1)
+Pac-Man (Midway)
+Pac-Man Plus
+Pac-Mania
+Paddle Mania
+Palamedes (Japan)
+Pandora's Palace
+Pang Poms
+Pang! 3 (Euro 950511)
+Panic Bomber
+Panic Street (Japan)
+Paperboy (rev 3)
+Parallel Turn
+Parodius DA! (World)
+Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)
+Pass
+Passing Shot (2 Players)
+Pebble Beach - The Great Shot
+Peggle (Joystick, v1.0)
+Pengo (set 1 rev c)
+Penguin Brothers (Japan)
+Penguin-Kun Wars (US)
+Pepper II
+Perfect Billiard
+Performan (US)
+Peter Pack-Rat
+Pettan Pyuu (Japan)
+Phantom II
+Phelios (Japan)
+Phoenix (Amstar)
+Photo Y2K
+Phozon (Japan)
+Pickin'
+Pig Newton (version C)
+Pigout
+Pigskin 621AD
+Pinball Action (set 1)
+Pinbo
+Ping Pong
+Pioneer Balloon
+Pipe Dream (US)
+Pirate Ship Higemaru
+Pirates
+Pisces
+Pistol Daimyo no Bouken (Japan)
+Pit and Run
+Pit Fighter (rev 4)
+Pitfall II
+Pleasure Goal / Futsal - 5 on 5 Mini Soccer
+Pleiads (Tehkan)
+Plotting (World)
+Plump Pop (Japan)
+Plus Alpha
+Pnickies (Japan 940608)
+Pochi and Nyaa
+Pocket Gal Deluxe (Euro v3.00)
+Poitto!
+Polaris (set 1)
+Pole Position
+Pole Position II
+Pollux (set 1)
+Polygonet Commanders (ver UAA)
+Poly-Play
+Ponpoko
+Poolshark
+Pooyan
+Pop Flamer (protected)
+Pop 'n Bounce / Gapporin
+Pop 'N Pop (World)
+Popeye (revision D)
+Popper
+Porky
+Portraits
+Poto Poto (Japan)
+Pound for Pound (World)
+Power Drive
+Power Instinct (USA bootleg) (set 1)
+Power Instinct 2 (USA)
+Power Instinct 3 - Groove On Fight
+Power Instinct Legends (USA)
+Power Instinct Matrimelee
+Power Play
+Power Spikes (World)
+Power Spikes II
+Power Surge
+Prebillian
+Prehistoric Isle 2
+Prehistoric Isle in 1930 (World)
+Premier Soccer (Europe ver. EAB)
+Pretty Soldier Sailor Moon (95-03-22B)
+Primal Rage (version 2.3)
+Primal Rage 2
+Prime Goal EX (PG1-VER.A)
+Prime Time Fighter (US new version)
+Princess Clara Daisakusen
+Print Club (Japan Vol.1)
+Pro Soccer
+Pro Yakyuu Nyuudan Test Tryout (JPN Ver.)
+Professor PacMan
+Progear (USA 010117)
+Progress
+Prop Cycle (Rev PR2 Ver.A)
+Prosport
+Psychic 5
+Psychic Force (JAPAN)
+Psycho Soldier (US)
+Psycho-Nics Oscar (US)
+Puchi Carat (Japan)
+Puckman Pockimon
+PuLiRuLa (World)
+Pulsar
+Pulstar
+Punch-Out!!
+Punk Shot (US 2 Players)
+Pururun
+Pushman
+Puyo Puyo (Japan)
+Puyo Puyo 2 (Japan)
+Puyo Puyo Sun
+Puzz Loop (USA)
+Puzz Loop 2 (Japan 010226)
+Puzzle & Action: Ichidant-R (World)
+Puzzle Bobble (Japan, B-System)
+Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1)
+Puzzle Bobble 2 (World)
+Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)
+Puzzle Bobble 3 (World)
+Puzzle Bobble 4 (World)
+Puzzle De Bowling (Japan)
+Puzzle De Pon!
+Puzzle Star
+Puzzled / Joy Joy Kid
+Puzzli
+Pyros (US)
+Q*bert (US set 1)
+Q*bert's Qubes
+Qix (set 1)
+Quantum (rev 2)
+Quarterback
+Quartet (Rev A, 8751 315-5194)
+Quester (Japan)
+R2D Tank
+Rabbit
+Rabbit Punch (US)
+Race Drivin' (cockpit, rev 5)
+Racin' Force (ver UAB)
+Racoon World
+Rad Mobile
+Rad Rally
+Radar Scope
+Radar Zone
+Radiant Silvergun
+Radical Radial
+Rafflesia
+Rage of the Dragons
+Ragnagard / Shin-Oh-Ken
+Raiden
+Raiden 2
+Raiders5
+Raiga - Strato Fighter (US)
+Raimais (Japan)
+Rainbow Islands (new version)
+Rally Bike - Dash Yarou
+Rally X
+Rambo III (US)
+Rampage - World Tour (rev 1.3)
+Rampage (revision 3)
+Rampart (Japan, Joystick)
+Rapid Hero
+Rastan (World)
+Rave Racer (Rev. RV2, World)
+Ray Storm (JAPAN)
+Razzmatazz
+Reactor
+Real Bout Fatal Fury / Real Bout Garou Densetsu
+Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers (set 1)
+Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special
+Recordbreaker (World)
+Red Alert
+Red Baron
+Red Clash
+Red Robin
+Redline Racer (2 players)
+Regulus (New Ver.)
+Reikai Doushi (Japan)
+Relief Pitcher (set 1)
+Renegade (US)
+Rescue
+Rescue Raider
+Return of the Invaders
+Return of the Jedi
+Rezon
+Ribbit!
+Riddle of Pythagoras (Japan)
+Ridge Racer (Rev. RR1, Japan)
+Ridge Racer 2 (Rev. RRS1, Japan)
+Riding Fight (World)
+Riding Hero (set 1)
+Rim Rockin' Basketball (V2.2)
+Ring King (US set 3)
+Ring of Destruction: Slammasters II (Euro 940902)
+Ring Rage (World)
+Riot
+Riot City
+Rip Cord
+Rip Off
+Risky Challenge
+Rival Schools (ASIA 971117)
+River Patrol (bootleg)
+Road Blasters (upright, rev 4)
+Road Fighter (set 1)
+Road Riot 4WD
+Road Runner (rev 2)
+Robby Roto
+Robo Army
+Robocop (World revision 4)
+Robocop 2 (World)
+Robot Bowl
+Robotron (Solid Blue label)
+Rock Climber
+Rock 'n Rage (World[Q])
+Rock'n 3 (Japan)
+Rock'n 4 (Japan)
+Rock'n Tread (Japan)
+Rock'n Tread 2 (Japan)
+Roc'n Rope
+Rod-Land (World)
+Rohga Armour Force (US v1.0)
+Roller Jammer
+Rollergames (US)
+Rolling Crash - Moon Base
+Rolling Crush
+Rolling Thunder (new version)
+Rolling Thunder 2
+Rompers (Japan)
+Rotary Fighter
+Rough Ranger (v2.0)
+Rougien
+Round-Up
+Route 16
+R-Shark
+R-Type (US)
+R-Type II
+R-Type Leo (World rev. C)
+Run and Gun (World ver. EAA)
+Run and Gun 2 (ver UAA)
+Rushing Heroes (ver UAB)
+Rygar (US set 1)
+Ryu Jin (Japan)
+Ryukyu
+S.P.Y. - Special Project Y (World ver. N)
+S.R.D. Mission
+S.S. Mission
+S.T.U.N. Runner (rev 6)
+Saboten Bombers (set 1)
+Safari
+Safari Rally (Japan)
+Saint Dragon
+Salamander 2 (ver JAA)
+Samurai
+Samurai Aces (World)
+Samurai Nihon-ichi (set 1)
+Samurai Shodown / Samurai Spirits
+Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen
+Samurai Shodown III / Samurai Spirits - Zankurou Musouken
+Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin
+Samurai Shodown V
+Samurai Shodown V Special
+Sand Scorpion
+Sando-R
+SAR - Search And Rescue (World)
+Sarge
+Sasuke vs. Commander
+Satan of Saturn
+Satan's Hollow (set 1)
+Saturday Night Slam Masters (World 930713)
+Saturn
+Sauro
+Savage Reign / Fu'un Mokushiroku - kakutou sousei
+Scion
+Scorpion (Moon Cresta hardware)
+Scramble
+Scramble Spirits
+Scrambled Egg
+Scud Hammer
+SD Fighter (Korea)
+SD Gundam Neo Battling (Japan)
+SD Gundam Psycho Salamander no Kyoui
+SD Gundam Sangokushi Rainbow Tairiku Senki
+SDI - Strategic Defense Initiative
+Sea Bass Fishing
+Sea Fighter Poseidon
+Sea Wolf
+Sea Wolf II
+Section Z (set 1)
+Sega Ninja
+Segasonic the Hedgehog (Japan rev. C)
+Seibu Cup Soccer
+Seicross
+Sel Feena
+Sen Jin - Guardian Storm (Korea)
+Sengeki Striker (Asia)
+Sengoku / Sengoku Denshou (set 1)
+Sengoku 2 / Sengoku Denshou 2
+Sengoku 3
+Senjyo
+Sen-Know (Japan)
+SF-X
+Shackled (US)
+Shadow Dancer (US)
+Shadow Force (US Version 2)
+Shadow Land
+Shadow Warriors (World set 1)
+Shanghai - The Great Wall - Shanghai Triple Threat
+Shanghai (Japan)
+Shanghai II (Japan)
+Shanghai III (Japan)
+Shanghai Kid
+Shark Attack
+Sheriff
+Shienryu
+Shingen Samurai-Fighter (Japan, English)
+Shinobi (set 1)
+Shock Troopers - 2nd Squad
+Shock Troopers (set 1)
+Shocking
+Shogun Warriors
+Shoot Out (US)
+Shoot the Bull
+Shooting Gallery
+Shooting Master
+Shot Rider
+Shougi
+Shuffleboard
+Shuffleshot (v1.39)
+Shuuz (version 8.0)
+Side Arms - Hyper Dyne (World)
+Side Pocket (World)
+Side Track
+Silent Dragon (World)
+Silk Worm (set 1)
+Sindbad Mystery
+Sinistar (revision 3)
+Skull and Crossbones (rev 5)
+Skull Fang (Europe 1.13)
+Sky Adventure (World)
+Sky Alert
+Sky Army
+Sky Base
+Sky Bumper
+Sky Chuter
+Sky Diver
+Sky Fox
+Sky Kid (New Ver.)
+Sky Kid Deluxe (set 1)
+Sky Lancer
+Sky Raider
+Sky Skipper
+Sky Smasher
+Sky Soldiers (US)
+Slap Fight
+Slap Shot (Japan)
+Slick Shot (V2.2)
+Slipstream
+Slither (set 1)
+Sly Spy (US revision 3)
+Smash T.V. (rev 8.00)
+Snacks'n Jaxson
+Snake Pit
+Snap Jack
+Snow Board Championship (set 1)
+Snow Bros. - Nick & Tom (set 1)
+Snow Bros. 2 - With New Elves - Otenki Paradise
+Soccer Brawl
+Soccer Superstars (ver JAA)
+Sokonuke Taisen Game (Japan)
+Sol Divide - The Sword Of Darkness
+Solar Fox
+Solar Quest
+Soldam (Japan)
+Soldier Girl Amazon
+Solitary Fighter (World)
+Solomon's Key (Japan)
+Solvalou (Japan)
+Son of Phoenix
+Son Son
+Sonic Blast Man (Japan)
+Sonic Boom
+Sonic Wings Limited (JAPAN)
+SOS
+Sotsugyo Shousho
+Soukyugurentai - Terra Diver
+Soul Calibur (SOC1-VER.A)
+Soul Edge Ver. II (SO4-VER.C)
+Space Attack - Head On
+Space Attack (upright)
+Space Beam
+Space Bomber (ver. B)
+Space Bugger
+Space Chaser
+Space Cruiser
+Space Duel
+Space Dungeon
+Space Encounters
+Space Fever (New Ver.)
+Space Firebird (Nintendo)
+Space Force
+Space Fortress
+Space Fury (revision C)
+Space Harrier
+Space Intruder
+Space Invaders
+Space Invaders '95 - Attack Of The Lunar Loonies (World)
+Space Invaders DX (US) v2.1
+Space Invaders II (Midway, cocktail)
+Space Invaders Part II (Taito)
+Space King 2
+Space Laser
+Space Lords
+Space Odyssey
+Space Panic (version E)
+Space Position (Japan)
+Space Seeker
+Space Stranger
+Space Stranger 2
+Space Tactics
+Space Trek (upright)
+Space Wars
+Space Zap
+Spark Man (v 2.0)
+Spatter
+Speak and Rescue
+Special Criminal Investigation (World set 1)
+Special Forces
+Special Forces II
+Spectar (revision 3)
+Speed Ball
+Speed Buggy
+Speed Freak
+Speed Spin
+Spelunker
+Spelunker II
+Spider-Man: The Videogame (US)
+Spiders (set 1)
+Spiker
+Spin Master / Miracle Adventure
+Spinal Breakers (World)
+Splat!
+Splatter House (Japan)
+Splendor Blast
+Springer
+Sprint 1
+Sprint 4 (set 1)
+Sprint 8
+Spy Hunter
+Spy Hunter 2 (rev 2)
+Squash
+Stack Columns (Japan)
+Stadium Cross (World)
+Stadium Hero (Japan)
+Stagger I (Japan)
+Stakes Winner / Stakes Winner - GI kinzen seihae no michi
+Stakes Winner 2
+Star Castle (version 3)
+Star Cruiser
+Star Fighter (v1)
+Star Fire (set 1)
+Star Force
+Star Gladiator (USA 960627)
+Star Gladiator 2 (JAPAN 980316)
+Star Guards
+Star Hawk
+Star Jacker (Sega)
+Star Sweep (STP1-VER.A)
+Star Trek
+Star Wars (rev 2)
+Starblade
+Stargate
+Starship 1
+Steel Force
+Steel Talons (rev 2)
+Steep Slope Sliders
+Stinger
+Stocker
+Stompin'
+Stone Ball (4 Players)
+Storm Blade (US)
+Straight Flush
+Strata Bowling (V3)
+Strategy X
+Streaking
+Street Fighter - The Movie (v1.12)
+Street Fighter (US)
+Street Fighter Alpha 2 (USA 960306)
+Street Fighter Alpha 3 (USA 980904)
+Street Fighter Alpha: Warriors' Dreams (USA 950627)
+Street Fighter EX Plus (USA 970311)
+Street Fighter II' - Champion Edition (US 920803)
+Street Fighter II - The World Warrior (US 911101)
+Street Football
+Street Heat - Cardinal Amusements
+Street Hoop / Street Slam / Dunk Dream
+Street Smart (US version 2)
+Strength and Skill
+Strider (US set 1)
+Strider 2 (USA 991213)
+Strike Bowling
+Strike Force (rev 1 02-25-91)
+Strike Gunner S.T.G
+Strike Zone Baseball
+Strikers 1945
+Strikers 1945 II
+Strikers 1945 III (World) - Strikers 1999 (Japan)
+Strikers 1945 Plus
+Subroc-3D
+Subs
+Suikoenbu
+Sundance
+Sunset Riders (World 2 Players ver. EBC)
+Super Bagman
+Super Baseball Double Play Home Run Derby
+Super Basketball (version G)
+Super Bishi Bashi Championship (ver JAA, 2 Players)
+Super Bond
+Super Breakout
+Super Bug
+Super Burger Time (World)
+Super Champion Baseball (US)
+Super Chase - Criminal Termination (US)
+Super Cobra
+Super Contra
+Super Cross 2 (Japan)
+Super Cup Finals (World)
+Super Dodge Ball (US)
+Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu
+Super Doubles Tennis
+Super Draw Poker
+Super Football Champ (JAPAN)
+Super Gem Fighter Mini Mix (USA 970904)
+Super Glob
+Super Hang-On
+Super High Impact (rev LA1 09-30-91)
+Super Invader Attack
+Super League
+Super Locomotive
+Super Major League (US)
+Super Masters Golf
+Super Pac-Man
+Super Pang (World)
+Super Punch-Out!!
+Super Puzzle Fighter 2 Turbo (USA 960620)
+Super Qix
+Super Real Darwin (World)
+Super Rider
+Super Sidekicks / Tokuten Ou
+Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - Real Fight Football
+Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi
+Super Slam
+Super Slams
+Super Space Invaders '91 (World)
+Super Spacefortress Macross - Chou-Jikuu Yousai Macross
+Super Spacefortress Macross II - Chou-Jikuu Yousai Macross II
+Super Speed Race
+Super Speed Race Junior (Japan)
+Super Sprint (rev 4)
+Super Stingray
+Super Street Fighter 2 Turbo (USA 940323)
+Super Street Fighter 2: The New Challengers (USA 930911)
+Super Strike Bowling
+Super Tank
+Super Ten V8.3
+Super Trio
+Super Visual Soccer - Sega Cup (US)
+Super Volleyball (US)
+Super World Court (Japan)
+Super World Stadium '92 (Japan)
+Super World Stadium '93 (Japan)
+Super World Stadium '95 (Japan)
+Super World Stadium '96 (Japan)
+Super World Stadium '97 (Japan)
+Super World Stadium '99 (SS91-VER.A)
+Super Xevious
+Super Zaxxon
+Superbike
+Superior Soldiers (US)
+Superman
+Super-X (NTC)
+Surprise Attack (Japan ver. M)
+Survival
+Survival Arts (USA)
+Suzuka 8 Hours (World[Q])
+Suzuka 8 Hours 2 (Japan)
+SWAT
+SWAT Police
+Swimmer (set 1)
+Syusse Oozumou (Japan)
+Syvalion (Japan)
+T.N.K. III (US)
+Tac-Scan
+Tactician (set 1)
+Tail to Nose - Great Championship
+Tailgunner
+Taisen Puzzle-dama (ver JAA)
+Taisen Tanto-R Sashissu!!
+Taisen Tokkae-dama (ver JAA)
+Tang Tang (ver. 0526, 26-05-2000)
+Tank Battalion
+Tank Busters
+Tank Force (US)
+Tant-R (Puzzle and Action) (Japan)
+Tao Taido (set 1)
+Tapper (Budweiser)
+Targ
+Task Force Harrier
+Taxi Driver
+Tazz-Mania (set 1)
+Tech Romancer (USA 980914)
+Tecmo Bowl (World[Q])
+Tecmo World Cup '90 (set 1)
+Tecmo World Cup '98
+Tecmo World Soccer '96
+TeddyBoy Blues (New Ver.)
+Tee'd Off (Japan)
+Teenage Mutant Ninja Turtles - Turtles in Time (US 2 Players ver. UDA)
+Teenage Mutant Ninja Turtles (Oceania 2 Players)
+Tehkan World Cup
+Teki Paki
+Tekken (TE4-VER.C)
+Tekken 2 Ver.B (TES3-VER.B)
+Tekken 3 (TET1-VER.E)
+Tekken Tag Tournament (TEG3-VER.B)
+Tempest (rev 3)
+Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)
+Tengai - Sengoku Blade - Sengoku Ace Episode II
+Terra Cresta (YM3526 set 1)
+Terra Force
+Tetris (Sega Set 1)
+Tetris (set 1)
+Tetris Plus
+Tetris Plus 2 (World[Q])
+Tetris the Absolute The Grand Master 2
+Tetris The Grand Master (JAPAN 980710)
+TH Strikes Back
+The Amazing Adventures of Mr. F. Lea
+The Astyanax
+The Battle-Road
+The Berlin Wall (set 1)
+The Big Pro Wrestling!
+The Bounty
+The Cliffhanger - Edward Randy (World revision 2)
+The Combatribes (US)
+The Dealer
+The Deep (Japan)
+The Electric Yo-Yo (set 1)
+The Empire Strikes Back
+The End
+The FairyLand Story
+The Final Round (version M)
+The Game Paradise - Master of Shooting! - Game Tengoku - The Game Paradise
+The Great Wall
+The Hand
+The History of Martial Arts
+The Hustler (Japan version M)
+The Irritating Maze / Ultra Denryu Iraira Bou
+The Karate Tournament
+The Killing Blade (ver. 109, Chinese Board)
+The King of Dragons (World 910711)
+The King of Fighters 2000
+The King of Fighters 2001
+The King of Fighters 2002
+The King of Fighters 2003 (Decrypted)
+The King of Fighters '94
+The King of Fighters '95 (set 1)
+The King of Fighters '96 (set 1)
+The King of Fighters '97 (set 1)
+The King of Fighters '98 - The Slugfest - King of Fighters '98 / Dream Match Never Ends
+The King of Fighters '99 - Millennium Battle (set 1)
+The Koukouyakyuh
+The Last Day (set 1)
+The Legend of Kage
+The Legend of Silkroad
+The Lost Castle in Darkmist
+The Main Event (4 Players ver. Y)
+The Masters of Kin
+The NewZealand Story (Japan, new version) (P0-043A PCB)
+The Next Space
+The Ninja Kids (World)
+The Ninja Warriors (World)
+The Percussor
+The Pit
+The Punisher (World 930422)
+The Real Ghostbusters (US 2 Players)
+The Return of Ishtar
+The Return of Lady Frog
+The Simpsons (2 Players)
+The Speed Rumbler (set 1)
+The Super Spy
+The Three Stooges In Brides Is Brides
+The Tin Star
+Thief
+Thrash Rally
+Three Wonders (World 910520)
+Thunder and Lightning
+Thunder Blade
+Thunder Ceptor
+Thunder Cross
+Thunder Cross II (Japan)
+Thunder Dragon
+Thunder Dragon 2 (9th Nov. 1993)
+Thunder Fox (World)
+Thunder Heroes
+Thunder Hoop
+Thunder Strike
+Thundercade - Twin Formation
+ThunderForce AC
+ThunderJaws
+Tiger Heli (US)
+Tiger Road (US)
+Timber
+Time Crisis (Rev. TS2 Ver.A)
+Time Killers (v1.32)
+Time Limit
+Time Pilot
+Time Pilot '84 (set 1)
+Time Scanner
+Time Soldiers (US Rev 3)
+Time Tunnel
+Tinkle Pit (Japan)
+Title Fight (World)
+T-MEK
+Toffy
+Toki (World set 1)
+Toki no Senshi - Chrono Soldier
+Tokimeki Memorial Taisen Puzzle-dama (ver JAB)
+Tokio - Scramble Formation
+Tomahawk 777 (Revision 1)
+Tondemo Crisis (JAPAN)
+Toobin' (rev 3)
+Top Hunter - Roddy and Cathy
+Top Landing (World)
+Top Player's Golf
+Top Secret (Exidy) (version 1.0)
+Top Speed (World)
+Tora Tora
+Toride II Adauchi Gaiden
+Tornado Baseball
+Toryumon
+Total Carnage (rev LA1 03-10-92)
+Touch and Go
+TouchDown Fever
+Tough Turf (US)
+Touki Denshou -Angel Eyes-
+Tournament Cyberball 2072 (rev 2)
+Tournament Table (set 1)
+Tower of Druaga (New Ver.)
+Toypop
+Track and Field
+Tranquilizer Gun
+Transformer
+Traverse USA - Zippy Race
+Trick Trap (World[Q])
+Tricky Doc
+Trio The Punch - Never Forget Me... (Japan)
+Triple Hunt
+Triple Punch
+Tri-Pool (Casino Tech)
+Tri-Sports
+Trog (rev LA4 03-11-91)
+Trojan (US)
+Tron (set 1)
+Trophy Hunting - Bear & Moose V1.0
+Tropical Angel
+Truxton - Tatsujin
+Truxton II - Tatsujin II - Tatsujin Oh (Japan)
+Tube Panic
+Tugboat
+Tumble Pop (World)
+Tunnel Hunt
+Turbo
+Turbo Force
+Turbo Out Run (set 1)
+Turkey Hunting USA V1.0
+Turtle Ship
+Turtles
+Tutankham
+Twin Bee Yahhoo! (ver JAA)
+Twin Cobra (World)
+Twin Eagle - Revenge Joe's Brother
+Twin Eagle II - The Rescue Mission
+Twin Hawk (World)
+TwinBee
+Twinkle Star Sprites
+Two Tigers
+U.N. Defense Force - Earth Joker (Japan)
+U.N. Squadron (US)
+U.S. Championship V'ball (set 1)
+U.S. Classic
+Ufo Senshi Yohko Chan
+Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The
+Ultimate Tennis
+Ultra Balloon
+Ultra Tank
+Ultra Toukon Densetsu (Japan)
+Ultra X Weapons - Ultra Keibitai
+Ultraman (Japan)
+Ultraman Club - Tatakae! Ultraman Kyoudai!!
+Undercover Cops (World)
+UniWar S
+Uo Poko (Japan)
+Up'n Down
+US AAF Mustang (Japan)
+Us vs. Them
+V Goal Soccer
+Valkyrie No Densetsu (Japan)
+Valtric
+Vamp 1-2
+Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)
+Vampire Savior 2: The Lord of Vampire (Japan 970913)
+Vampire Savior: The Lord of Vampire (Japan 970519)
+Vandyke (Japan)
+Vanguard (SNK)
+Vanguard II
+Van-Van Car
+Vapor Trail - Hyper Offence Formation (World revision 1)
+Varia Metal
+Varth - Operation Thunderstorm (World 920612)
+Vasara
+Vasara 2 (set 1)
+Vastar (set 1)
+Vendetta (World 2 Players ver. W)
+Venture (version 5 set 1)
+Versus Net Soccer (ver UAB)
+V-Five (Japan)
+Victory
+Victory Road
+Video Eight Ball
+Video Hustler
+Video Pinball
+Viewpoint
+Vigilante (US)
+Vimana
+Vindicators (rev 5)
+Vindicators Part II (rev 3)
+Violence Fight (World)
+Violent Storm (US ver UAB)
+Viper
+Virtua Bowling (World, V101XCM )
+Virtua Fighter
+Virtua Fighter Kids
+Virtua Fighter Remix
+Volfied (World)
+Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer
+VS Block Breaker (Asia)
+VS Gong Fight
+Vulcan Venture
+Vulgus (set 1)
+Wacko
+Wai Wai Jockey Gate-In!
+Waku Waku 7
+Wall Crash
+Wall Street
+Wanted
+War of Aero - Project MEIOU
+War of the Bugs or Monsterous Manouvers in a Mushroom Maze
+War of the Worlds
+Warlords
+Warp and Warp
+Warrior
+Warrior Blade - Rastan Saga Episode III (Japan)
+Warriors of Fate (World 921002)
+Water Match
+Water Ski
+WEC Le Mans 24
+Welltris (Japan, 2 players)
+Whizz
+Wild Fang - Tecmo Knight
+Wild West C.O.W.-Boys of Moo Mesa (World version EA)
+Wild Western (set 1)
+Willow (US)
+Wily Tower
+Windjammers / Flying Power Disc
+Wing Shooting Championship V2.0
+Winning Run 91
+Winning Spike (ver JAA)
+Winter Heat
+Wiping
+Wit's (Japan)
+Wiz
+Wizard Fire (US v1.1)
+Wizard of Wor
+Wonder Boy (set 1, new encryption)
+Wonder Boy Deluxe
+Wonder Boy III - Monster Lair (set 1)
+Wonder Boy in Monster Land (English, Virtual Console)
+Wonder Momo
+Wonder Planet (Japan)
+World Beach Volley
+World Class Bowling (v1.66)
+World Court (Japan)
+World Cup '94
+World Cup Volley 95 (Japan v1.0)
+World Grand Prix (US)
+World Heroes (set 1)
+World Heroes 2
+World Heroes 2 Jet
+World Heroes Perfect
+World PK Soccer
+World Rally (set 1)
+World Rally 2 - Twin Racing
+World Series - The Season
+World Soccer Finals
+World Stadium (Japan)
+World Tennis
+Wrestle War
+WWF - Wrestlemania (rev 1.30 08-10-95)
+WWF Superstars (US)
+WWF WrestleFest (US)
+X Multiply (Japan)
+Xain'd Sleena
+X-Day 2 (Japan)
+Xenophobe
+Xevious (Namco)
+Xevious 3D-G (XV31-VER.A)
+Xexex (World)
+X-Files
+X-Men (World 2 Players)
+X-Men Vs. Street Fighter (USA 961023)
+X-Men: Children of the Atom (USA 950105)
+XX Mission
+Xybots (rev 2)
+Xyonix
+Yam! Yam![Q]
+Yamato (US)
+Yie Ar Kung-Fu (set 1)
+Yosaku To Donbee (bootleg)
+Youjyuden (Japan)
+Yumefuda [BET]
+Zarya Vostoka
+Zaviga
+Zaxxon (set 1)
+Zed Blade / Operation Ragnarok
+Zektor (revision B)
+Zen Nippon Pro-Wrestling Featuring Virtua
+Zero Hour
+Zero Wing
+Zhong Guo Long II (ver. 100C, China)
+Zig Zag (Galaxian hardware, set 1)
+Zing Zing Zip
+Zoar
+Zodiack
+Zoo Keeper (set 1)
+Zunzunkyou No Yabou (Japan)
+Zupapa!
+Zwackery
+Zzyzzyxx (set 1)
 
+	__*Recommended 1g1r-English set**__
+  
+  	__*Recommended 1g1r-English set**__
+    
+    	__*Recommended 1g1r-English set**__
+      
+      	__*Recommended 1g1r-English set**__
