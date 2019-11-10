@@ -2275,6 +2275,21 @@ X-Men Vs. Street Fighter (Euro 960910)
 X-Men: Children of the Atom (Euro 950105)
 
 
+Excluded Parent roms where clone rom allows character selection
+----------------------------------------------------------------
+
+Crime Fighters (US 4 players)
+Gauntlet (rev 14)
+Gauntlet II
+Punk Shot (US 4 Players)
+Sunset Riders (World 4 Players ver. EAC)
+Teenage Mutant Ninja Turtles - Turtles in Time (US 4 Players ver. UAA)
+Teenage Mutant Ninja Turtles (World 4 Players)
+The Simpsons (4 Players)
+Vendetta (World 4 Players ver. T)
+X-Men (US 4 Players)
+
+
 Excluded for Mature Content
 ----------------------------
 
@@ -2542,4 +2557,95 @@ Zero Zone
 
 Excluded Mahjong Games
 -----------------------
+Mahjong
+Mahjong Channel Zoom In
+Mahjong Daireikai
+Mahjong If [BET] (Japan)
+Mahjong Kakumei
+Mahjong Kakumei 2 - Princess League
+Mahjong Quest (No Nudity)
+Minnasanno Okagesamadesu
+Pro Mahjong Kiwame
+Pro Mahjong Kiwame S
+Royal Mahjong (Japan)
+Sengoku Mahjong (Japan)
+Tokoro San no MahMahjan
+Tokoro San no MahMahjan 2
+Virtual Mahjong
+Virtual Mahjong 2 - My Fair Lady
+
+
+Excluded Quiz Games
+---------------------
+Adventure Quiz 2 Hatena Hatena no Dai-Bouken (Japan)
+Athena no Hatena [Q]
+Bakuretsu Quiz Ma-Q Dai Bouken (Japan)
+Big Bucks
+Capcom World (Japan)
+Capcom World 2 (Japan 920611)
+Chibi Marukochan Deluxe Quiz
+Crayon Shinchan Orato Asobo (Japan)
+Dramatic Adventure Quiz Keith and Lucy (Japan)
+Fax
+Find Out
+Gourmet Battle Quiz Ryohrioh CooKing (Japan)
+Hayaoshi Quiz Ouza Ketteisen
+Kirameki Star Road (Japan)
+Kosodate Quiz My Angel (Japan)
+Kosodate Quiz My Angel 2 (Japan)
+Kosodate Quiz My Angel 3 (KQT1-VER.A)
+Moriguchi Hiroko no Quiz de Hyuu!Hyuu! (Japan)
+Name That Tune
+Nettoh Quiz Champion (Japan)
+Nettou! Gekitou! Quiztou!! (Japan)
+Nouryoku Koujou Iinkai
+Quiz 365 (Hong Kong and Taiwan)
+Quiz and Dragons (Japan 940921)
+Quiz and Dragons (US 920701)
+Quiz and Variety Sukusuku Inufuku (Japan)
+Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un
+Quiz Channel Question (Ver 1.00) (Japan)
+Quiz Channel Question (Ver 1.23) (Taiwan[Q])
+Quiz Chikyu Bouei Gun (Japan)
+Quiz Crayon Shinchan (Japan)
+Quiz Daisousa Sen - The Last Count Down
+Quiz de Idol! Hot Debut (Japan)
+Quiz DNA no Hanran (Japan)
+Quiz F-1 1,2finish
+Quiz Gakuen Paradise (Japan)
+Quiz Gakumon no Susume (Japan ver. JA2 Type L)
+Quiz Gekiretsu Scramble (Japan)
+Quiz Ghost Hunter
+Quiz H.Q. (Japan)
+Quiz Jinsei Gekijoh (Japan)
+Quiz King of Fighters
+Quiz Kokology
+Quiz Kokology 2
+Quiz Meitantei Neo and Geo - Quiz Daisousa Sen part 2
+Quiz Mekurumeku Story
+Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 960826)
+Quiz Panicuru Fantasy
+Quiz Quest - Hime to Yuusha no Monogatari (Japan)
+Quiz Rouka Ni Tattenasai
+Quiz Sangokushi (Japan)
+Quiz Sekai wa SHOW by shobai (Japan)
+Quiz Syukudai wo Wasuremashita
+Quiz Theater - 3tsu no Monogatari (Japan)
+Quiz Tonosama no Yabou (Japan)
+Quiz Tonosama no Yabou 2 Zenkoku-ban (Japan 950123)
+Quiz Torimonochou (Japan)
+Quiz TV Gassyuukoku QandQ (Japan)
+Super Trivia Master
+Triv Quiz
+Triv Two
+Trivial Pursuit (All Star Sports Edition)
+Trivial Pursuit (Baby Boomer Edition)
+Trivial Pursuit (Genus I)
+Trivial Pursuit (Genus II)
+Trivial Pursuit (Young Players Edition)
+Wheel Of Fortune
+Wheel Of Fortune (alternate)
+Whiz Quiz
+Yes-No Sinri Tokimeki Chart
+Yuuyu no Quiz de GO!GO! (Japan)
 
