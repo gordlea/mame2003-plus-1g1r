@@ -2215,5 +2215,331 @@ Zupapa!
 Zwackery
 Zzyzzyxx (set 1)
 
-Recommended 1g1r-English set
+
+Excluded Non-US Parent Roms where US Clone is Available
 ----------------------------------
+
+Alien vs. Predator (Euro 940520)
+Ashura Blaster (Japan)
+Battle Garegga - Type 2 (Denmark - China) (Tue Apr 2 1996)
+Battle Rangers (World)
+Bermuda Triangle (Japan)
+Bucky O'Hare (World version EA)
+Captain America and The Avengers (Asia Rev 1.9)
+Cue Brick (Japan)
+Dark Seal (World revision 3)
+Darkstalkers: The Night Warriors (Euro 940705)
+Diet Go Go (Euro v1.1)
+Double Dragon (Japan)
+Dungeons and Dragons: Shadow over Mystara (Euro 960619)
+Dungeons and Dragons: Tower of Doom (Euro 940412)
+Elevator Action Returns (World)
+Final Lap 3 (Japan set 1)
+Joyful Road (Japan)
+Jungle King (Japan)
+Kaiser Knuckle (World)
+King of Boxer (English)
+Marvel Super Heroes (Euro 951024)
+Mystic Warriors (Europe ver EAA)
+Nastar (World)
+Nova 2001 (Japan)
+Pang (World)
+Performan (Japan)
+PuckMan (Japan set 1)
+Puzz Loop (Europe)
+Puzzle & Action: Ichidant-R (Japan)
+Rabio Lepus (Japan)
+Rambo III (Europe set 1)
+Rohga Armour Force (Asia-Europe v3.0)
+R-Type (Japan)
+Salamander (version D)
+Shippu Mahou Daisakusen (Japan)
+Street Fighter (World)
+Street Fighter Alpha: Warriors' Dreams (Euro 950727)
+Street Fighter II' - Champion Edition (World 920313)
+Street Fighter II - The World Warrior (World 910522)
+Super Street Fighter 2: The New Challengers (World 930911)
+Super Visual Football - European Sega Cup
+Super Volleyball (Japan)
+Taito Power Goal (World)
+Takeda Shingen (Japan, Japanese)
+Thunder Zone (World)
+Top Ranking Stars (World new version)
+Tough Turf (Japan)
+Vampire Savior: The Lord of Vampire (Euro 970519)
+Vigilante (World)
+Violent Storm (Europe ver EAB)
+Wardner (World)
+Wonder Boy in Monster Land (Japan New Ver.)
+X-Men Vs. Street Fighter (Euro 960910)
+X-Men: Children of the Atom (Euro 950105)
+
+
+Excluded for Mature Content
+----------------------------
+
+7jigen no Youseitachi - Mahjong 7 Dimensions (Japan)
+Apparel Night (Japan 860929)
+AV2Mahjong No.1 Bay Bridge no Seijo (Japan)
+AV2Mahjong No.2 Rouge no Kaori (Japan)
+Bakatonosama Mahjong Manyuki
+Big Twin
+Bijokko Gakuen (Japan 880116)
+Bijokko Yume Monogatari (Japan 870925)
+Billiard Academy Real Break (Japan)
+Bishoujo Janshi Pretty Sailor 18-kin (Japan)
+Bishoujo Janshi Pretty Sailor 2 (Japan)
+Blandia
+Blandia (prototype)
+Block Gal
+Block Gal (bootleg)
+Bouncing Balls
+Bubble 2000
+Cannon Ball
+Chinese Casino [BET] (Japan)
+Chi-Toitsu
+City Love (Japan 860908)
+Crystal Gal (Japan 860512)
+Crystal Gal 2 (Japan 860620)
+Disco Mahjong Otachidai no Okite (Japan)
+Don Den Lover Vol. 1 (Hong Kong)
+Don Den Mahjong [BET] (Japan)
+Fantasia
+Fantasia II
+Fantasy '95
+Funny Bubble
+Gals Hustler
+Gals Panic (set 1)
+Gals Panic (set 2)
+Gals Panic 4 (Japan)
+Gals Panic II (Japan[Q])
+Gals Panic S - Extra Edition (Japan)
+Gals Panic S2 (Japan)
+Gals Pinball
+Games V18.7C
+Games V25.4X
+Gionbana (Japan 890120)
+Glass (Ver 1.1, Break Edition, Checksum 49D5E66B, Version 1994)
+Golden Fire II
+Grand Tour
+Gumbo
+Gun Dealer (set 1)
+Gun Dealer (set 2)
+Gun Dealer (Tecmo)
+Gun Dealer '94
+Hana Fubuki [BET] (Japan)
+Hana Kochou [BET] (Japan)
+Hana no Mai (Japan)
+Hana Oriduru (Japan)
+Hana to Ojisan [BET] (Japan 911209)
+Hana Yayoi (Japan)
+Hexa
+Hot Pinball
+House Mannequin (Japan 870217)
+House Mannequin Roppongi Live hen (Japan 870418)
+Idol Janshi Su-Chi-Pie 2 (v1.0)
+Idol Janshi Su-Chi-Pie 2 (v1.1)
+Idol no Himitsu [BET] (Japan 890304)
+Idol-Mahjong Final Romance (Japan)
+Idol-Mahjong Housoukyoku (Japan)
+Iemoto (Japan 871020)
+Imekura Mahjong (Japan)
+Jan Jan Paradise
+Jan Jan Paradise 2
+Jyanshin Densetsu - Quest of Jongmaster
+Kanatsuen no Onna [BET] (Japan 880905)
+Kikiippatsu Mayumi-chan (Japan)
+Koi Koi Shimasyo 2 - Super Real Hanafuda (Japan)
+Lady Killer
+Las Vegas Girl (Girl '94)
+Last Fortress - Toride (Erotic)
+Lovely Pop Mahjong Jan Jan Shimasyo (Japan)
+Mad Donna (set 1)
+Mad Donna (set 2)
+Magix - Rock
+Mahjong Angel Kiss
+Mahjong Angels - Comic Theater Vol.2 (Japan)
+Mahjong Bakuhatsu Junjouden (Japan)
+Mahjong Banana Dream [BET] (Japan 891124)
+Mahjong Camera Kozou (Japan 881109)
+Mahjong Camera Kozou [BET] (Japan 890509)
+Mahjong Campus Hunting (Japan)
+Mahjong Chinmoku no Hentai (Japan 900511)
+Mahjong Circuit no Mehyou (Japan)
+Mahjong Clinic (Japan)
+Mahjong CLUB 90's (set 1) (Japan 900919)
+Mahjong CLUB 90's (set 2) (Japan 900919)
+Mahjong Daiyogen (Japan)
+Mahjong Derringer (Japan)
+Mahjong Dial Q2 (Japan)
+Mahjong Diplomat [BET] (Japan)
+Mahjong Doukyuusei
+Mahjong Doukyuusei Special
+Mahjong Erotica Golf (Japan)
+Mahjong Final Bunny [BET] (Japan)
+Mahjong Focus (Japan 890313)
+Mahjong Focus [BET] (Japan 890510)
+Mahjong Friday (Japan)
+Mahjong Fun Club - Idol Saizensen (Japan)
+Mahjong Gakuen
+Mahjong Gakuen 2 Gakuen-chou no Fukushuu
+Mahjong Gakuensai (Japan)
+Mahjong Gakuensai 2 (Japan)
+Mahjong Gal 10-renpatsu (Japan)
+Mahjong Gal no Kaika (Japan)
+Mahjong Gal no Kokuhaku (Japan)
+Mahjong G-MEN'89 (Japan 890425)
+Mahjong Gottsu ee-kanji (Japan)
+Mahjong Hana no Momoko gumi (Japan 881201)
+Mahjong Hourouki Gaiden (Japan)
+Mahjong Hourouki Okite (Japan)
+Mahjong Hourouki Part 1 - Seisyun Hen (Japan)
+Mahjong Hyouban Musume [BET] (Japan)
+Mahjong Hyper Reaction (Japan)
+Mahjong Hyper Reaction 2 (Japan)
+Mahjong Ikaga Desu ka (Japan)
+Mahjong Jikken Love Story (Japan)
+Mahjong Jogakuen (Japan)
+Mahjong Kaguyahime [BET] (Japan 880521)
+Mahjong Keibaou (Japan)
+Mahjong Kinjirareta Asobi (Japan)
+Mahjong Koi no Magic Potion (Japan)
+Mahjong Koi Uranai (Japan)
+Mahjong Kojinkyouju (Private Teacher) (Japan)
+Mahjong Kyoretsuden
+Mahjong Kyou Jidai (Japan)
+Mahjong La Man (Japan)
+Mahjong Lemon Angel (Japan)
+Mahjong Nanpa Story (Japan 890712)
+Mahjong Nanpa Story (Japan 890713)
+Mahjong Nanpa Story (Ura) (Japan 890805)
+Mahjong Natsu Monogatari (Japan)
+Mahjong Nerae! Top Star (Japan)
+Mahjong Pachinko Monogatari (Japan)
+Mahjong Panic Stadium (Japan)
+Mahjong Pon Chin Kan (Japan set 1)
+Mahjong Pon Chin Kan (Japan set 2)
+Mahjong Quest (Japan)
+Mahjong Ren-ai Club (Japan)
+Mahjong Rokumeikan (Japan)
+Mahjong Sailor Wars (Japan)
+Mahjong Sailor Wars-R [BET] (Japan)
+Mahjong Satsujin Jiken (Japan 881017)
+Mahjong Scout Man (Japan)
+Mahjong Shikaku (Japan 880722)
+Mahjong Shikaku (Japan 880908)
+Mahjong Sisters (Japan)
+Mahjong Studio 101 [BET] (Japan)
+Mahjong THE LADY HUNTER (Japan 900509)
+Mahjong Triple Wars (Japan)
+Mahjong Triple Wars 2 (Japan)
+Mahjong Uchuu yori Ai wo komete (Japan)
+Mahjong Uranai Densetsu (Japan)
+Mahjong Vanilla Syndrome (Japan)
+Mahjong Vitamin C (Japan)
+Mahjong Yarunara (Japan)
+Mahjong Yuugi (Japan set 1)
+Mahjong Yuugi (Japan set 2)
+Mahjong-yougo no Kisotairyoku (Japan)
+Mahjong-zukino Korinai Menmen (Japan 880425)
+Maikobana (Japan 900802)
+Maya
+Medal Mahjong Circuit no Mehyou [BET] (Japan)
+Medal Mahjong Janjan Baribari [BET] (Japan)
+Medal Mahjong Pachi-Slot Tengoku [BET] (Japan)
+Miss Mahjong Contest (Japan)
+Miss World '96 Nude
+Miyasu Nonki no Quiz 18-Kin
+Moeyo Gonta!! (Japan)
+Natsuiro Mahjong (Japan)
+Nekketsu Grand-Prix Gal (Japan)
+Nekketsu Mahjong Sengen! AFTER 5 (Japan)
+New Fantasia
+Niyanpai (Japan)
+Nozokimeguri Mahjong Peep Show (Japan 890404)
+Ojanko Club (Japan)
+Ojanko High School (Japan)
+Ojanko Yakata (Japan)
+Ojanko Yakata 2bankan (Japan)
+Ojousan (Japan 871204)
+Orange Club - Maruhi Kagai Jugyou (Japan 880213)
+Otona no Mahjong (Japan 880628)
+Pachinko Sexy Reaction (Japan)
+Pairs (09-07-94)
+Pairs (System Ten) (Japan 890826)
+Pairs (V1.2, 09-30-94)
+Paradise
+Pastel Gal (Japan 851224)
+Peek-a-Boo!
+Perestroika Girls
+Pipi and Bibis - Whoopee!!
+Pipi and Bibis - Whoopee!! (bootleg [Q])
+Play Girls
+Play Girls 2
+Pocket Gal (bootleg)
+Pocket Gal (Japan)
+Pocket Gal 2 (World[Q])
+Poker Ladies
+Poker Ladies (Leprechaun)
+Primella
+Puzznic (Japan)
+Quiz-Mahjong Hayaku Yatteyo! (Japan)
+Real Mahjong Haihai (Japan)
+Real Mahjong Haihai [BET] (Japan)
+Real Mahjong Haihai Jinji Idou Hen (Japan)
+Real Mahjong Haihai Seichouhen (Japan)
+Rettou Juudan Nekkyoku Janshi - Higashi Nippon Hen (Japan)
+Rong Rong (Germany)
+Ryuusei Janshi Kirara Star
+Sadari
+Sankokushi (Japan)
+Scandal Mahjong (Japan 890213)
+Scandal Mahjong [BET] (Japan 890217)
+Second Love (Japan 861201)
+Seiha (Japan 870725)
+Seiha [BET] (Japan 870723)
+Sexy Parodius (ver JAA)
+Sichuan II (hack[Q]) (set 1)
+Splash! (Ver. 1.2 World)
+Super Duper Casino (California V3.2)
+Super Marukin-Ban
+Super Pinball Action (Japan)
+Super Pinball Action (US)
+Super Real Mahjong P7 (Japan)
+Super Real Mahjong Part 2 (Japan)
+Super Real Mahjong Part 3 (Japan)
+Super Real Mahjong PIV (Japan)
+Super Real Mahjong PIV (Japan, older set)
+Super Shanghai Dragon's Eye (Japan)
+Super Shanghai Dragon's Eye (World, bootleg)
+Super Toffy
+Super Triv II
+Taisen Hot Gimmick (Japan)
+Taisen Hot Gimmick 3 Digital Surfing (Japan)
+Taisen Hot Gimmick Kairakuten (Japan)
+Taisen Idol-Mahjong Final Romance 2 (Japan)
+Taisen Mahjong FinalRomance 4 (Japan)
+Taisen Mahjong FinalRomance R (Japan)
+Taisen Quiz HYHOO (Japan)
+Taisen Quiz HYHOO 2 (Japan)
+Target Ball
+Tel Jan
+Telephone Mahjong (Japan 890111)
+The Mah-jong (Japan)
+Tokimeki Bishoujo [BET] (Japan)
+Tokimeki Mahjong Paradise - Dear My Love
+Tokyo Gal Zukan (Japan)
+Tonton [BET] (Japan)
+Ultra Maru-hi Mahjong (Japan)
+Untouchable (Japan)
+Vip Club [BET] (Japan 880310)
+VS Mahjong Otome Ryouran
+Wakakusamonogatari Mahjong Yonshimai (Japan)
+Watashiha Suzumechan (Japan)
+Whoopee!! - Pipi and Bibis
+Zero Zone
+
+
+Excluded Mahjong Games
+-----------------------
+
