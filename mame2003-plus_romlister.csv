@@ -1,9 +1,6 @@
 ROM Name;Description;Category;Year;Manufacturer;CHD name;Set;P/C;1g1r;exclusion notes
 5;5;Maze / Shooter Small;1981;Sega;;5;P;1;
 600;600;Maze;1981;Konami;;turtles;C;0;Clone
-yard;10 Yard Fight (Japan);Sports / Football Amer.;1983;Irem;;yard;P;1;
-vsyard2;10 Yard Fight (Vs. version Japan, set 2);Sports / Football Amer.;1984;Irem;;yard;C;0;Clone
-vsyard;10 Yard Fight (Vs. version World, 11-05-84);Sports / Football Amer.;1984;Irem;;yard;C;0;Clone
 1941j;1941 - Counter Attack (Japan);Shooter / Flying Vertical;1990;Capcom;;1941;C;0;Clone
 1941;1941 - Counter Attack (World);Shooter / Flying Vertical;1990;Capcom;;1941;P;1;
 1942;1942 (set 1);Shooter / Flying Vertical;1984;Capcom;;1942;P;1;
